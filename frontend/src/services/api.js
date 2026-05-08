@@ -4,7 +4,7 @@ import axios from "axios";
  * Backend base URL.
  * During development, Express runs on port 5000.
  */
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://itunes-search-backend-lqlo.onrender.com";
 
 /**
  * Requests a temporary JWT token from the backend.
